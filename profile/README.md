@@ -5,4 +5,13 @@
   </tr>
 </table>
 
-*\*AI has been used for formatting and writing, due to the language barrier. Yet, we try to minimize our usage while retaining the highest quality.*
+*\*Due to the language barrier AI has been used for formatting and writing. Yet, we try to minimize our usage while retaining the highest quality.*
+
+Members of the team:
+- Arman Altafi
+- Arman Jamshidi
+- Ryan Saemain
+- Mohammad A. Fardi
+- Ariya Torabi
+- Amir Ali Tabari
+- Seyyed Parham Heydari
